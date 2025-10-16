@@ -96,7 +96,7 @@ SEARXNG_API_BASE_URL=
 MCP_AI_PROVIDER=google
 # (Optional) MCP Server search provider. Default, `model`
 # Possible values ​​include: model, tavily, firecrawl, exa, bocha, searxng
-MCP_SEARCH_PROVIDER=tavily
+MCP_SEARCH_PROVIDER=model
 # (Optional) MCP Server thinking model id, the core model used in deep research.
 MCP_THINKING_MODEL=gemini-2.5-flash
 # (Optional) MCP Server task model id, used for secondary tasks, high output models are recommended.
