@@ -69,9 +69,9 @@ POLLINATIONS_API_BASE_URL=
 OLLAMA_API_BASE_URL=
 
 # (Optional) Server-side Tavily API Key (Required for server API calls)
-TAVILY_API_KEY=
+TAVILY_API_KEY=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
 # (Optional) Server-side Tavily API Proxy URL. Default, `https://api.tavily.com`
-TAVILY_API_BASE_URL=
+TAVILY_API_BASE_URL=https://api.tavily.com
 
 # (Optional) Server-side Firecrawl API Key (Required for server API calls)
 FIRECRAWL_API_KEY=
