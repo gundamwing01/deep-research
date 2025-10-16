@@ -93,14 +93,14 @@ SEARXNG_API_BASE_URL=
 
 # (Optional) MCP Server AI provider
 # Possible values ​​include: google, openai, anthropic, deepseek, xai, mistral, azure, openrouter, openaicompatible, pollinations, ollama
-MCP_AI_PROVIDER=
+MCP_AI_PROVIDER=google
 # (Optional) MCP Server search provider. Default, `model`
 # Possible values ​​include: model, tavily, firecrawl, exa, bocha, searxng
-MCP_SEARCH_PROVIDER=
+MCP_SEARCH_PROVIDER=tavily
 # (Optional) MCP Server thinking model id, the core model used in deep research.
-MCP_THINKING_MODEL=
+MCP_THINKING_MODEL=gemini-2.5-flash
 # (Optional) MCP Server task model id, used for secondary tasks, high output models are recommended.
-MCP_TASK_MODEL=
+MCP_TASK_MODEL=gemini-2.5-flash
 
 # (Optional) Disable server-side AI provider usage permissions
 # Possible values ​​include: google, openai, anthropic, deepseek, xai, mistral, azure, openrouter, openaicompatible, pollinations, ollama
