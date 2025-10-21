@@ -2,12 +2,12 @@
 ACCESS_PASSWORD=
 
 # (Deprecated) Server-side Gemini API Proxy URL. Default, `https://generativelanguage.googleapis.com`
-API_PROXY_BASE_URL=
+API_PROXY_BASE_URL=https://generativelanguage.googleapis.com
 
 # (Optional) Server-side Gemini API Key (Required for server API calls)
-GOOGLE_GENERATIVE_AI_API_KEY=
+GOOGLE_GENERATIVE_AI_API_KEY=AIzaSyBr0y4D16No1L9qc7URfq_dBfkTU96qWH0
 # (Optional) Server-side Gemini API Proxy URL. Default, `https://generativelanguage.googleapis.com`
-GOOGLE_GENERATIVE_AI_API_BASE_URL=
+GOOGLE_GENERATIVE_AI_API_BASE_URL=https://generativelanguage.googleapis.com
 
 # (Optional) The Google Cloud project ID that you want to use for the API calls.
 GOOGLE_VERTEX_PROJECT=
@@ -69,9 +69,9 @@ POLLINATIONS_API_BASE_URL=
 OLLAMA_API_BASE_URL=
 
 # (Optional) Server-side Tavily API Key (Required for server API calls)
-TAVILY_API_KEY=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
+TAVILY_API_KEY=
 # (Optional) Server-side Tavily API Proxy URL. Default, `https://api.tavily.com`
-TAVILY_API_BASE_URL=https://api.tavily.com
+TAVILY_API_BASE_URL=
 
 # (Optional) Server-side Firecrawl API Key (Required for server API calls)
 FIRECRAWL_API_KEY=
